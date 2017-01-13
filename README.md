@@ -19,7 +19,16 @@ DOM 元素选择器。
 
 当然从 DOM 元素选择器延伸而出，如何取值也是一件需要考虑的事情。
 
+#### 使用方式
 
+ES6 方式：
+
+```javascript
+import $ from 'dom-selector';
+
+// 调用方式
+$.closest(el, className);
+```
 
 #### License
 

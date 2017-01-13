@@ -1,0 +1,16 @@
+{
+  "name": "dom-selector",
+  "version": "0.0.1",
+  "description": "DOM元素选择器，感谢YouMightNotNeedjQuery",
+  "main": "selector.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecidi/dom-selector.git"
+  },
+  "keywords": [
+    "dom selector",
+    "css selector"
+  ],
+  "author": "xueying (https://github.com/catcxj)",
+  "license": "GPL"
+}
