@@ -17,6 +17,6 @@
 返回值：查询到的父节点或者undefined。
 
 ```javascript
-closest(el, 'ant-row');
+$.closest(el, className);
 ```
 
