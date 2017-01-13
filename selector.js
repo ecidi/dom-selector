@@ -33,6 +33,6 @@ function closest(el, className){
 }
 
 // 对外接口
-export default [
+export default {
     closest
-]
+};
