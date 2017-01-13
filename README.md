@@ -1,5 +1,5 @@
 
-### dom-selector-  v 0.0.2
+### dom-selector     v0.0.2
 
 *—— 感谢 [YouMightNotNeedjQuery](http://YouMightNotNeedjQuery.com)*
 
