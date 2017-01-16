@@ -12,5 +12,8 @@
     "css selector"
   ],
   "author": "xueying (https://github.com/catcxj)",
-  "license": "GPL"
+  "license": "GPL",
+  "dependencies": {
+    "lodash": "4.16.4"
+  }
 }
