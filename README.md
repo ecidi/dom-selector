@@ -30,7 +30,7 @@ import $ from 'dom-selector';
 $.closest(el, className);
 ```
 
-其它详见 [API 文档](https://github.com/ecidi/dom-selector/blob/v0.0.1/API.md)。
+其它详见 [API 文档](https://github.com/ecidi/dom-selector/blob/v0.0.2/API.md)。
 
 #### License
 
