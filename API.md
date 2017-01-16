@@ -9,14 +9,14 @@
 
 功能：就近查询符合class要求的父节点。
 
-| 参数        | 描述         |
-| :-------- | :--------- |
-| el        | dom元素      |
-| className | 父节点的class值 |
+| 参数        | 类型     | 描述         |
+| :-------- | :----- | ---------- |
+| el        | node   | dom元素      |
+| className | string | 父节点的class值 |
 
 返回值：查询到的父节点或者undefined。
 
 ```javascript
-$.closest(el, className);
+$.closest(el, 'del-row');
 ```
 
