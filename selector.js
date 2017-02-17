@@ -19,9 +19,10 @@ function hasClass(el, className){
 }
 
 // 选择靠自己最近的且符合要求的父节点
+// 如果自身符合要求则返回自身
 function closest(el, className){
 	let findParent = false;
-	let parent = el.parentNode;
+	let parent = el;
 	while(!findParent){
 		// 到 body 终止查询
 		if (parent.nodeName === 'BODY') {
